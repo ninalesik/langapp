@@ -1,0 +1,82 @@
+[
+  {
+  "id": "1",
+  "russian": "лифт",
+  "english":"elevator",
+  "transcription": "['elɪveɪtə]",
+  "part_of_ speech": "noun",
+  "definition": "a moving platform or cage for carrying passengers or freight from one level to another, as in a building"
+  },
+  
+  {
+  "id": "2",
+  "russian": "абрикос",
+  "english":"apricot",
+  "transcription": "['eɪprɪkɔt]",
+  "part_of_ speech": "noun",
+  "definition": "the downy, yellow, sometimes rosy fruit, somewhat resembling a small peach, of the tree; a tree utself"
+  },
+  
+  {
+  "id": "3",
+  "russian": "книга",
+  "english":"book",
+  "transcription": "[buk]",
+  "part_of_ speech": "noun",
+  "definition": "a work printed on sheets of paper bound together within covers"
+  },
+  
+  {
+      "id": "4",
+      "russian": "развитие",
+      "english":"development",
+      "transcription": "[dɪ'veləpmənt]",
+      "part_of_ speech": "noun",
+      "definition": "the act or process of developing;growth;progress"
+      },
+  
+  {
+  "id": "5",
+  "russian": "пустой",
+  "english":"empty",
+  "transcription": "['emptɪ]",
+  "part_of_ speech": "adjective",
+  "definition": "containing nothing; vacant; unoccupied"
+  },
+  
+  {
+  "id": "6",
+  "russian": "работать",
+  "english":"work",
+  "transcription": "[wɜːk]",
+  "part_of_ speech": "verb",
+  "definition": "the use of effort or action to produce or accomplish something"
+  },
+  
+  {
+  "id": "7",
+  "russian": "предаваться вспоминаниям",
+  "english":"reminisce",
+  "transcription": "[ˌremɪ'nɪs]",
+  "part_of_ speech": "verb",
+  "definition": "to recall or talk about past experiences, events, etc."
+  },
+  
+  {
+  "id":"8",
+  "russian": "неохотный",
+  "english":"reluctant",
+  "transcription": "[rɪ'lʌkt(ə)nt] ",
+  "part_of_ speech": "adjective",
+  "definition": "unwilling; not inclined to do something"
+  },
+  
+  {
+  "id": "9",
+  "russian": "искренний",
+  "english":"genuine",
+  "transcription": "['ʤenjuɪn]",
+  "part_of_ speech": "adjective",
+  "definition": "authentic; real; free from pretending; sincere"
+  }
+  ]
