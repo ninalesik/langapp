@@ -1,5 +1,7 @@
 import { useState, useEffect } from "react";
 import Cards from "./components/Cards/Cards";
+import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
 import data from "./components/Cards/data.json";
 import "./App.css";
 
@@ -21,9 +23,11 @@ function App() {
 
   return (
     <div className="container">
+      <Header />
       <button onClick={handlePrev}>prev</button>
       <Cards words={data[count]} count={count} key={count} />
       <button onClick={handleNext}>next</button>
+      <Footer />
     </div>
   );
 }
